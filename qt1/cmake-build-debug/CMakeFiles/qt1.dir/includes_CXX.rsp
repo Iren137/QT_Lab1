@@ -1,0 +1,1 @@
+-IC:/Users/irish/qt_lab/Lab1/qt1/cmake-build-debug/qt1_autogen/include -isystem C:/Qt/6.2.3/mingw_64/include/QtCore -isystem C:/Qt/6.2.3/mingw_64/include -isystem C:/Qt/6.2.3/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.2.3/mingw_64/include/QtGui -isystem C:/Qt/6.2.3/mingw_64/include/QtWidgets

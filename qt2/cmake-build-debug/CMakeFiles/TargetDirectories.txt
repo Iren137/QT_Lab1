@@ -1,0 +1,4 @@
+C:/Users/irish/qt_lab/Lab1/qt2/cmake-build-debug/CMakeFiles/qt2.dir
+C:/Users/irish/qt_lab/Lab1/qt2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/irish/qt_lab/Lab1/qt2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/irish/qt_lab/Lab1/qt2/cmake-build-debug/CMakeFiles/qt2_autogen.dir

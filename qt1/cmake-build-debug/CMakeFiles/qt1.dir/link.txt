@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\qt1.dir/objects.a
+C:\Qt\Tools\mingw900_64\bin\ar.exe cr CMakeFiles\qt1.dir/objects.a @CMakeFiles\qt1.dir\objects1.rsp
+C:\Qt\Tools\mingw900_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\qt1.dir/objects.a -Wl,--no-whole-archive -o qt1.exe -Wl,--out-implib,libqt1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\qt1.dir\linklibs.rsp
